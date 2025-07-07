@@ -1,0 +1,1 @@
+java -jar spigot-1.21.5.jar

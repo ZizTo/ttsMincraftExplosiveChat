@@ -1,0 +1,1287 @@
+[14:14:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:14:59] [ServerMain/INFO]: Loaded 1373 recipes
+[14:14:59] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[14:14:59] [Server thread/INFO]: Loading properties
+[14:14:59] [Server thread/INFO]: This server is running CraftBukkit version 4504-Spigot-270012a-dacd062 (MC: 1.21.5) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[14:15:00] [Server thread/INFO]: *** This version of Spigot contains changes to some enums. If you notice that plugins no longer work after updating, please report this to the developers of those plugins first. ***
+[14:15:00] [Server thread/INFO]: *** If you cannot update those plugins, you can try setting `settings.compatibility.enum-compatibility-mode` to `true` in `bukkit.yml`. ***
+[14:15:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:15:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:15:00] [Server thread/INFO]: Debug logging is disabled
+[14:15:00] [Server thread/INFO]: Default game type: SURVIVAL
+[14:15:00] [Server thread/INFO]: Generating keypair
+[14:15:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:15:00] [Server thread/INFO]: Using default channel type
+[14:15:00] [Server thread/INFO]: [ExplosiveChat] Loading ExplosiveChat v1.0
+[14:15:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:15:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:15:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:15:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:15:00] [Server thread/INFO]: Preparing level "world"
+[14:15:00] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:15:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:15:00] [Server thread/INFO]: View Distance: 10
+[14:15:00] [Server thread/INFO]: Simulation Distance: 10
+[14:15:00] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:15:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:15:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:15:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:15:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:15:00] [Server thread/INFO]: Mob Spawn Range: 6
+[14:15:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[14:15:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[14:15:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:15:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:15:00] [Server thread/INFO]: Max TNT Explosions: 100
+[14:15:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[14:15:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[14:15:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:15:01] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:15:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:15:01] [Server thread/INFO]: View Distance: 10
+[14:15:01] [Server thread/INFO]: Simulation Distance: 10
+[14:15:01] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:15:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:15:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:15:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:15:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:15:01] [Server thread/INFO]: Mob Spawn Range: 6
+[14:15:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[14:15:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:15:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:15:01] [Server thread/INFO]: Max TNT Explosions: 100
+[14:15:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[14:15:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[14:15:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:15:01] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:15:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:15:01] [Server thread/INFO]: View Distance: 10
+[14:15:01] [Server thread/INFO]: Simulation Distance: 10
+[14:15:01] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:15:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:15:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:15:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:15:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:15:01] [Server thread/INFO]: Mob Spawn Range: 6
+[14:15:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[14:15:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[14:15:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:15:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:15:01] [Server thread/INFO]: Max TNT Explosions: 100
+[14:15:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[14:15:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[14:15:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:15:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:15:01] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:15:01] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:15:02] [Server thread/INFO]: Time elapsed: 757 ms
+[14:15:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:15:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:15:02] [Server thread/INFO]: Time elapsed: 224 ms
+[14:15:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:15:02] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[14:15:02] [Server thread/INFO]: Time elapsed: 88 ms
+[14:15:02] [Server thread/INFO]: [ExplosiveChat] Enabling ExplosiveChat v1.0
+[14:15:02] [Server thread/INFO]: [ExplosiveChat] ExplosiveChat Plugin has been enabled!
+[14:15:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:15:02] [Server thread/INFO]: Done (1.627s)! For help, type "help"
+[14:15:02] [Server thread/INFO]: Starting remote control listener
+[14:15:02] [Server thread/INFO]: Thread RCON Listener started
+[14:15:02] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[14:15:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:15:27] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:15:40] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:15:40] [RCON Client /127.0.0.1 #3/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:15:44] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:15:44] [RCON Client /127.0.0.1 #4/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:15:50] [User Authenticator #1/INFO]: UUID of player ZizTo is 5256e73d-5d52-3709-9372-1bf3b2bd99cd
+[14:15:51] [Server thread/INFO]: ZizTo joined the game
+[14:15:51] [Server thread/INFO]: ZizTo[/127.0.0.1:59412] logged in with entity id 37 at ([world]-65.17168218944884, 67.0, 136.10687672955206)
+[14:15:53] [Server thread/WARN]: UUID of added entity already exists: EntityDrowned['Drowned'/261, l='ServerLevel[world]', x=-11.33, y=4.82, z=65.82]
+[14:15:53] [Server thread/WARN]: UUID of added entity already exists: EntityTurtle['Turtle'/263, l='ServerLevel[world]', x=-1.74, y=58.49, z=68.27]
+[14:16:14] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:16:14] [Server thread/INFO]: <ZizTo> яички[m
+[14:16:14] [RCON Client /127.0.0.1 #5/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:16:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:16:33] [Server thread/INFO]: <ZizTo> я проверял[m
+[14:16:33] [RCON Client /127.0.0.1 #6/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:16:39] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:16:39] [Server thread/INFO]: <ZizTo> и дому пизда[m
+[14:16:39] [RCON Client /127.0.0.1 #7/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:16:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:16:43] [Server thread/INFO]: <ZizTo> немного[m
+[14:16:43] [RCON Client /127.0.0.1 #8/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:16:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:16:57] [Server thread/INFO]: <ZizTo> Continuous[m
+[14:16:57] [RCON Client /127.0.0.1 #9/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:17:00] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:17:00] [Server thread/INFO]: <ZizTo> exe[m
+[14:17:00] [RCON Client /127.0.0.1 #10/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:17:19] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:17:19] [RCON Client /26.252.122.125 #11/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:17:24] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:17:24] [Server thread/INFO]: <ZizTo> один надо[m
+[14:17:24] [RCON Client /127.0.0.1 #12/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:17:26] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:17:26] [RCON Client /26.252.122.125 #13/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:17:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:17:34] [Server thread/INFO]: <ZizTo> включение[m
+[14:17:34] [RCON Client /127.0.0.1 #14/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:17:39] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:17:39] [Server thread/INFO]: <ZizTo> один надо раз[m
+[14:17:39] [RCON Client /127.0.0.1 #15/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:17:49] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:17:49] [RCON Client /26.252.122.125 #16/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:17:52] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:17:52] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:17:52] [Server thread/INFO]: <ZizTo> а нет[m
+[14:17:52] [RCON Client /127.0.0.1 #17/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:17:52] [Server thread/INFO]: ZizTo blew up
+[14:18:04] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:18:04] [Server thread/INFO]: <ZizTo> включу[m
+[14:18:04] [RCON Client /127.0.0.1 #18/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:18:12] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:18:12] [Server thread/INFO]: <ZizTo> Continuous[m
+[14:18:12] [RCON Client /127.0.0.1 #19/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:18:13] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:18:13] [RCON Client /26.252.122.125 #20/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:18:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:18:15] [Server thread/INFO]: <ZizTo> когда[m
+[14:18:15] [RCON Client /127.0.0.1 #21/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:18:20] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:18:20] [RCON Client /26.252.122.125 #22/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:18:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:18:23] [Server thread/INFO]: <ZizTo> думаю скоро[m
+[14:18:23] [RCON Client /127.0.0.1 #23/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:18:29] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:18:29] [RCON Client /26.252.122.125 #24/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:18:32] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:18:32] [Server thread/INFO]: <ZizTo> секунда[m
+[14:18:32] [RCON Client /127.0.0.1 #25/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:18:34] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:18:34] [RCON Client /26.252.122.125 #26/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:18:40] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:18:40] [RCON Client /26.252.122.125 #27/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:18:42] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:18:42] [Server thread/INFO]: <ZizTo> нельзя[m
+[14:18:42] [RCON Client /127.0.0.1 #28/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:18:47] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:18:47] [RCON Client /26.252.122.125 #29/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:18:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:18:59] [Server thread/INFO]: <ZizTo> паук[m
+[14:18:59] [RCON Client /127.0.0.1 #30/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:19:06] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:19:06] [Server thread/INFO]: <ZizTo> минута[m
+[14:19:06] [RCON Client /127.0.0.1 #31/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:19:10] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:19:10] [Server thread/INFO]: <ZizTo> могу[m
+[14:19:10] [RCON Client /127.0.0.1 #32/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:19:12] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:19:12] [Server thread/INFO]: <ZizTo> это супер[m
+[14:19:12] [RCON Client /127.0.0.1 #33/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:19:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:19:23] [Server thread/INFO]: <ZizTo> Игорь трансляцию[m
+[14:19:23] [RCON Client /127.0.0.1 #34/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:19:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:19:27] [Server thread/INFO]: <ZizTo> будет[m
+[14:19:27] [RCON Client /127.0.0.1 #35/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:19:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:19:29] [Server thread/INFO]: <ZizTo> сейчас[m
+[14:19:29] [RCON Client /127.0.0.1 #36/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:19:30] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:19:30] [RCON Client /26.252.122.125 #37/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:19:33] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:19:34] [RCON Client /26.252.122.125 #38/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:19:40] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:19:40] [Server thread/INFO]: <ZizTo> смотри[m
+[14:19:40] [RCON Client /127.0.0.1 #39/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:19:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:19:47] [Server thread/INFO]: <ZizTo> видишь[m
+[14:19:47] [RCON Client /127.0.0.1 #40/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:19:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:19:49] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:19:49] [Server thread/INFO]: <ZizTo> прикольно[m
+[14:19:49] [RCON Client /127.0.0.1 #41/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:19:49] [Server thread/INFO]: ZizTo blew up
+[14:19:56] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:19:56] [Server thread/INFO]: <ZizTo> в общем[m
+[14:19:56] [RCON Client /127.0.0.1 #42/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:19:58] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:19:58] [Server thread/INFO]: <ZizTo> если я[m
+[14:19:58] [RCON Client /127.0.0.1 #43/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:19:59] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:19:59] [RCON Client /26.252.122.125 #44/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:20:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:20:01] [Server thread/INFO]: <ZizTo> буду говорить[m
+[14:20:01] [RCON Client /127.0.0.1 #45/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:20:04] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:20:04] [Server thread/INFO]: <ZizTo> Вот это[m
+[14:20:04] [RCON Client /127.0.0.1 #46/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:20:06] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:20:06] [Server thread/INFO]: <ZizTo> то я[m
+[14:20:06] [RCON Client /127.0.0.1 #47/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:20:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:20:09] [Server thread/INFO]: <ZizTo> бом[m
+[14:20:09] [RCON Client /127.0.0.1 #48/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:20:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:20:13] [Server thread/INFO]: <ZizTo> взрываться[m
+[14:20:13] [RCON Client /127.0.0.1 #49/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:20:18] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:20:18] [Server thread/INFO]: <ZizTo> и медленно говорю[m
+[14:20:18] [RCON Client /127.0.0.1 #50/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:20:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:20:21] [Server thread/INFO]: <ZizTo> потому что[m
+[14:20:21] [RCON Client /127.0.0.1 #51/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:20:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:20:30] [Server thread/INFO]: <ZizTo> что Игорь[m
+[14:20:30] [RCON Client /127.0.0.1 #52/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:20:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:20:35] [Server thread/INFO]: <ZizTo> Я не у[m
+[14:20:35] [RCON Client /127.0.0.1 #53/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:20:47] [User Authenticator #2/INFO]: UUID of player continuous is 2c6ba906-c575-318d-8be0-a8bf65ff639e
+[14:20:48] [Server thread/INFO]: continuous joined the game
+[14:20:48] [Server thread/INFO]: continuous[/26.252.122.125:56415] logged in with entity id 1545 at ([world]5.5, 64.0, 10.5)
+[14:20:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:20:48] [Server thread/INFO]: <ZizTo> не понял[m
+[14:20:48] [RCON Client /127.0.0.1 #54/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:21:01] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:21:01] [Server thread/INFO]: <continuous> Буба[m
+[14:21:01] [RCON Client /26.252.122.125 #55/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:21:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:21:05] [Server thread/INFO]: <ZizTo> бум будет[m
+[14:21:05] [RCON Client /127.0.0.1 #56/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:21:14] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:21:14] [Server thread/INFO]: <ZizTo> нет[m
+[14:21:14] [RCON Client /127.0.0.1 #57/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:21:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:21:19] [Server thread/INFO]: <ZizTo> где[m
+[14:21:19] [RCON Client /127.0.0.1 #58/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:21:26] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:21:26] [Server thread/INFO]: <ZizTo> где[m
+[14:21:26] [RCON Client /127.0.0.1 #59/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:21:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:21:29] [Server thread/INFO]: <ZizTo> Continuous[m
+[14:21:29] [RCON Client /127.0.0.1 #60/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:21:30] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:21:30] [Server thread/INFO]: <continuous> Зомби[m
+[14:21:30] [RCON Client /26.252.122.125 #61/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:21:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:21:34] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:21:34] [Server thread/INFO]: <ZizTo> Привет бля[m
+[14:21:34] [RCON Client /127.0.0.1 #62/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:21:34] [Server thread/INFO]: ZizTo blew up
+[14:21:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:21:41] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:21:41] [Server thread/INFO]: <ZizTo> видишь я[m
+[14:21:41] [RCON Client /127.0.0.1 #63/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:21:41] [Server thread/INFO]: ZizTo blew up
+[14:21:41] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:21:41] [Server thread/INFO]: <continuous> Маленький Зомби Маленький Зомби[m
+[14:21:41] [RCON Client /26.252.122.125 #64/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:21:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:21:48] [Server thread/INFO]: <ZizTo> имба[m
+[14:21:48] [RCON Client /127.0.0.1 #65/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:21:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:21:57] [Server thread/INFO]: <ZizTo> Update[m
+[14:21:57] [RCON Client /127.0.0.1 #66/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:05] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:22:05] [Server thread/INFO]: <ZizTo> Сукко обновление[m
+[14:22:05] [RCON Client /127.0.0.1 #67/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:05] [Server thread/INFO]: ZizTo blew up
+[14:22:10] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:22:10] [Server thread/INFO]: <continuous> о[m
+[14:22:10] [RCON Client /26.252.122.125 #68/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:22:16] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:16] [Server thread/INFO]: <ZizTo> скажи[m
+[14:22:16] [RCON Client /127.0.0.1 #69/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:19] [Server thread/INFO]: <ZizTo> скажи[m
+[14:22:19] [RCON Client /127.0.0.1 #70/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:20] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:22:20] [Server thread/INFO]: <continuous> что сказать[m
+[14:22:20] [RCON Client /26.252.122.125 #71/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:22:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:23] [Server thread/INFO]: <ZizTo> скажи[m
+[14:22:23] [RCON Client /127.0.0.1 #72/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:24] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:22:24] [Server thread/INFO]: <continuous> что плохо[m
+[14:22:24] [RCON Client /26.252.122.125 #73/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:22:26] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:26] [Server thread/INFO]: <ZizTo> плохое[m
+[14:22:26] [RCON Client /127.0.0.1 #74/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:30] [Server thread/INFO]: <ZizTo> Checking[m
+[14:22:30] [RCON Client /127.0.0.1 #75/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:32] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:22:32] [Server thread/INFO]: <continuous> Checking[m
+[14:22:32] [RCON Client /26.252.122.125 #76/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:22:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:34] [Server thread/INFO]: <ZizTo> чекаю работу[m
+[14:22:34] [RCON Client /127.0.0.1 #77/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:35] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:22:35] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:22:35] [Server thread/INFO]: <continuous> Привет[m
+[14:22:35] [RCON Client /26.252.122.125 #78/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:22:35] [Server thread/INFO]: continuous blew up
+[14:22:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:37] [Server thread/INFO]: <ZizTo> работа[m
+[14:22:37] [RCON Client /127.0.0.1 #79/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:42] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:22:43] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:22:43] [Server thread/INFO]: <continuous> а я кровать[m
+[14:22:43] [Server thread/INFO]: continuous blew up
+[14:22:43] [RCON Client /26.252.122.125 #80/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:22:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:43] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:22:43] [Server thread/INFO]: <ZizTo> Нет вода блядь[m
+[14:22:43] [RCON Client /127.0.0.1 #81/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:22:43] [Server thread/INFO]: ZizTo blew up
+[14:22:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:22:51] [Server thread/INFO]: <ZizTo> что[m
+[14:22:51] [RCON Client /127.0.0.1 #82/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:23:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:23:01] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:23:01] [Server thread/INFO]: <ZizTo> экран[m
+[14:23:01] [RCON Client /127.0.0.1 #83/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:23:01] [Server thread/INFO]: ZizTo blew up
+[14:23:02] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:23:02] [Server thread/INFO]: <continuous> почему оно[m
+[14:23:02] [RCON Client /26.252.122.125 #84/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:23:08] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:23:08] [Server thread/INFO]: <ZizTo> буква поменялось[m
+[14:23:08] [RCON Client /127.0.0.1 #85/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:23:09] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:23:09] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:23:09] [Server thread/INFO]: <continuous> всё выводится на экран[m
+[14:23:09] [RCON Client /26.252.122.125 #86/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:23:09] [Server thread/INFO]: continuous blew up
+[14:23:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:23:19] [Server thread/INFO]: <ZizTo> на что[m
+[14:23:19] [RCON Client /127.0.0.1 #87/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:23:24] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:23:24] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:23:24] [Server thread/INFO]: <continuous> на скрин[m
+[14:23:24] [RCON Client /26.252.122.125 #88/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:23:24] [Server thread/INFO]: continuous blew up
+[14:23:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:23:27] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:23:27] [Server thread/INFO]: <ZizTo> скрин[m
+[14:23:27] [RCON Client /127.0.0.1 #89/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:23:27] [Server thread/INFO]: ZizTo blew up
+[14:23:32] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:23:32] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:23:32] [Server thread/INFO]: <continuous> на скрин скрин[m
+[14:23:32] [RCON Client /26.252.122.125 #90/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:23:32] [Server thread/INFO]: continuous blew up
+[14:23:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:23:33] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:23:33] [Server thread/INFO]: <ZizTo> скрин[m
+[14:23:33] [RCON Client /127.0.0.1 #91/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:23:33] [Server thread/INFO]: ZizTo blew up
+[14:23:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:23:45] [Server thread/INFO]: <ZizTo> плохой акцент[m
+[14:23:45] [RCON Client /127.0.0.1 #92/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:23:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:23:48] [Server thread/INFO]: <ZizTo> надо учить[m
+[14:23:48] [RCON Client /127.0.0.1 #93/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:23:54] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:23:54] [Server thread/INFO]: <ZizTo> иногда ве[m
+[14:23:54] [RCON Client /127.0.0.1 #94/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:24:00] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:24:00] [Server thread/INFO]: <ZizTo> видишь что в чате[m
+[14:24:00] [RCON Client /127.0.0.1 #95/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:24:02] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:24:02] [Server thread/INFO]: <continuous> потому что Translator[m
+[14:24:02] [RCON Client /26.252.122.125 #96/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:24:04] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:24:04] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:24:04] [Server thread/INFO]: <ZizTo> работа[m
+[14:24:04] [RCON Client /127.0.0.1 #97/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:24:04] [Server thread/INFO]: ZizTo blew up
+[14:24:11] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:24:11] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:24:11] [Server thread/INFO]: <continuous> он говорит он читает как хочет вообще[m
+[14:24:11] [Server thread/INFO]: continuous blew up
+[14:24:11] [RCON Client /26.252.122.125 #98/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:24:12] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:24:12] [Server thread/INFO]: <ZizTo> это да[m
+[14:24:12] [RCON Client /127.0.0.1 #99/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:24:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:24:21] [Server thread/INFO]: <ZizTo> бывает[m
+[14:24:21] [RCON Client /127.0.0.1 #100/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:24:21] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:24:21] [Server thread/WARN]: continuous moved too quickly! -1.2035975052698502,-4.0,12.991687459782394
+[14:24:21] [Server thread/INFO]: <continuous> а я не я не сказал это слово[m
+[14:24:21] [RCON Client /26.252.122.125 #101/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:24:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:24:25] [Server thread/INFO]: <ZizTo> куклы тупые[m
+[14:24:25] [RCON Client /127.0.0.1 #102/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:24:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:24:28] [Server thread/INFO]: <ZizTo> сделали говно библиотеку[m
+[14:24:28] [RCON Client /127.0.0.1 #103/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:24:30] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:24:30] [Server thread/INFO]: <continuous> потому что я Почему[m
+[14:24:30] [RCON Client /26.252.122.125 #104/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:24:33] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:24:33] [Server thread/INFO]: <continuous> потому что я вот[m
+[14:24:33] [RCON Client /26.252.122.125 #105/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:24:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:24:34] [Server thread/INFO]: <ZizTo> ты где[m
+[14:24:34] [RCON Client /127.0.0.1 #106/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:24:37] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:24:37] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:24:37] [Server thread/INFO]: <continuous> не говорю[m
+[14:24:37] [RCON Client /26.252.122.125 #107/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:24:37] [Server thread/INFO]: continuous blew up
+[14:24:45] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:24:46] [Server thread/INFO]: <continuous> потому что я[m
+[14:24:48] [RCON Client /26.252.122.125 #108/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:24:53] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:24:53] [Server thread/INFO]: <continuous> пишет на английском сейчас continuou[m
+[14:24:53] [RCON Client /26.252.122.125 #109/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:24:56] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:24:56] [Server thread/INFO]: <ZizTo> такого слова[m
+[14:24:56] [RCON Client /127.0.0.1 #110/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:24:58] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:24:58] [Server thread/INFO]: <continuous> нет вот[m
+[14:24:58] [RCON Client /26.252.122.125 #111/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:24:58] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:24:58] [Server thread/INFO]: <ZizTo> нашим[m
+[14:24:58] [RCON Client /127.0.0.1 #112/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:25:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:25:07] [Server thread/INFO]: <ZizTo> пока[m
+[14:25:07] [RCON Client /127.0.0.1 #113/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:25:08] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:25:08] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:25:08] [Server thread/INFO]: <continuous> так оно может просто написать так Ну понимаешь Оно просто пишет как угодно[m
+[14:25:08] [RCON Client /26.252.122.125 #114/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:25:08] [Server thread/INFO]: continuous blew up
+[14:25:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:25:13] [Server thread/INFO]: <ZizTo> Ага[m
+[14:25:13] [RCON Client /127.0.0.1 #115/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:25:15] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:25:15] [Server thread/INFO]: <continuous> а что я сказал[m
+[14:25:15] [RCON Client /26.252.122.125 #116/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:25:24] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:25:24] [Server thread/INFO]: <continuous> буква[m
+[14:25:24] [RCON Client /26.252.122.125 #117/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:25:24] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:25:24] [Server thread/INFO]: <ZizTo> круто[m
+[14:25:24] [RCON Client /127.0.0.1 #118/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:25:26] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:25:26] [Server thread/INFO]: <continuous> другая[m
+[14:25:26] [RCON Client /26.252.122.125 #119/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:25:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:25:28] [Server thread/INFO]: <ZizTo> да[m
+[14:25:28] [RCON Client /127.0.0.1 #120/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:25:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:25:35] [Server thread/INFO]: <ZizTo> что[m
+[14:25:35] [RCON Client /127.0.0.1 #121/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:25:46] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:25:46] [Server thread/INFO]: <continuous> Day One day One day[m
+[14:25:46] [RCON Client /26.252.122.125 #122/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:25:46] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:25:46] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:25:46] [Server thread/INFO]: <ZizTo> нига[m
+[14:25:46] [RCON Client /127.0.0.1 #123/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:25:46] [Server thread/INFO]: ZizTo blew up
+[14:25:53] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:25:53] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:25:53] [Server thread/INFO]: <continuous> почему это появилось у меня[m
+[14:25:53] [RCON Client /26.252.122.125 #124/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:25:53] [Server thread/INFO]: continuous blew up
+[14:26:00] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:26:00] [Server thread/INFO]: <ZizTo> Боже мой[m
+[14:26:00] [RCON Client /127.0.0.1 #125/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:26:03] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:26:04] [Server thread/INFO]: <continuous> Почему это появи[m
+[14:26:04] [RCON Client /26.252.122.125 #126/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:26:06] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:26:06] [Server thread/INFO]: <ZizTo> когда[m
+[14:26:06] [RCON Client /127.0.0.1 #127/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:26:10] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:26:10] [Server thread/INFO]: <ZizTo> я скажу плохое слово[m
+[14:26:10] [RCON Client /127.0.0.1 #128/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:26:22] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:26:22] [Server thread/INFO]: <ZizTo> мама[m
+[14:26:22] [RCON Client /127.0.0.1 #129/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:26:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:26:25] [Server thread/INFO]: <ZizTo> дому габел[m
+[14:26:25] [RCON Client /127.0.0.1 #130/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:26:32] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:26:32] [Server thread/INFO]: <ZizTo> повезло[m
+[14:26:32] [RCON Client /127.0.0.1 #131/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:26:34] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:26:34] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:26:34] [Server thread/INFO]: <continuous> отлично[m
+[14:26:34] [RCON Client /26.252.122.125 #132/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:26:34] [Server thread/INFO]: continuous blew up
+[14:26:42] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:26:42] [Server thread/INFO]: <ZizTo> и вправду[m
+[14:26:42] [RCON Client /127.0.0.1 #133/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:26:46] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:26:46] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:26:46] [Server thread/INFO]: <ZizTo> отлить надо[m
+[14:26:46] [RCON Client /127.0.0.1 #134/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:26:46] [Server thread/INFO]: ZizTo blew up
+[14:26:53] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:26:53] [Server thread/INFO]: <continuous> даже[m
+[14:26:53] [RCON Client /26.252.122.125 #135/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:26:58] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:26:58] [Server thread/INFO]: <continuous> а как а как[m
+[14:26:58] [RCON Client /26.252.122.125 #136/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:27:01] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:27:01] [Server thread/INFO]: <continuous> этой буквой[m
+[14:27:01] [RCON Client /26.252.122.125 #137/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:27:02] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:27:02] [Server thread/INFO]: <ZizTo> новая[m
+[14:27:02] [RCON Client /127.0.0.1 #138/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:27:06] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:27:06] [Server thread/INFO]: <continuous> вообще невозможно[m
+[14:27:06] [RCON Client /26.252.122.125 #139/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:27:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:27:09] [Server thread/INFO]: <ZizTo> возможно[m
+[14:27:09] [RCON Client /127.0.0.1 #140/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:27:13] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:27:13] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:27:13] [Server thread/INFO]: <continuous> а ну почти в каждом слове[m
+[14:27:13] [RCON Client /26.252.122.125 #141/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:27:13] [Server thread/INFO]: continuous blew up
+[14:27:18] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:27:23] [Server thread/WARN]: continuous moved too quickly! -5.493463356014929,-2.3306033417796073,8.79570262836216
+[14:27:23] [Server thread/INFO]: <continuous> а[m
+[14:27:24] [RCON Client /26.252.122.125 #142/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:27:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:27:28] [Server thread/INFO]: <ZizTo> глянь[m
+[14:27:28] [RCON Client /127.0.0.1 #143/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:27:34] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:27:34] [Server thread/INFO]: <continuous> перемещай[m
+[14:27:34] [RCON Client /26.252.122.125 #144/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:27:38] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:27:38] [Server thread/INFO]: <ZizTo> Вчера копали[m
+[14:27:38] [RCON Client /127.0.0.1 #145/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:27:44] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:27:44] [Server thread/INFO]: <continuous> я Капа[m
+[14:27:44] [RCON Client /26.252.122.125 #146/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:27:46] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:27:46] [Server thread/INFO]: <ZizTo> была буква С[m
+[14:27:46] [RCON Client /127.0.0.1 #147/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:27:48] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:27:48] [Server thread/INFO]: <continuous> да[m
+[14:27:48] [RCON Client /26.252.122.125 #148/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:27:50] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:27:50] [Server thread/INFO]: <ZizTo> повезло[m
+[14:27:50] [RCON Client /127.0.0.1 #149/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:27:53] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:27:53] [Server thread/INFO]: <continuous> я[m
+[14:27:53] [RCON Client /26.252.122.125 #150/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:27:56] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:27:56] [Server thread/INFO]: <continuous> взрыва[m
+[14:27:56] [RCON Client /26.252.122.125 #151/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:28:02] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:28:02] [Server thread/INFO]: <continuous> из-за буквы[m
+[14:28:02] [RCON Client /26.252.122.125 #152/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:28:11] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:28:11] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:28:11] [Server thread/INFO]: <continuous> Игорь А точно у меня[m
+[14:28:11] [RCON Client /26.252.122.125 #153/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:28:11] [Server thread/INFO]: continuous blew up
+[14:28:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:28:19] [Server thread/INFO]: <ZizTo> да[m
+[14:28:19] [RCON Client /127.0.0.1 #154/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:28:22] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:28:22] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:28:22] [Server thread/INFO]: <continuous> ты ой[m
+[14:28:22] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:28:22] [Server thread/INFO]: <ZizTo> красиво[m
+[14:28:22] [RCON Client /26.252.122.125 #155/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:28:22] [RCON Client /127.0.0.1 #156/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:28:22] [Server thread/INFO]: continuous blew up
+[14:28:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:28:28] [Server thread/INFO]: <ZizTo> мама[m
+[14:28:28] [RCON Client /127.0.0.1 #157/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:28:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:28:30] [Server thread/INFO]: <ZizTo> много[m
+[14:28:30] [RCON Client /127.0.0.1 #158/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:28:33] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:28:33] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:28:33] [Server thread/INFO]: <continuous> нет не это[m
+[14:28:33] [RCON Client /26.252.122.125 #159/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:28:33] [Server thread/INFO]: continuous blew up
+[14:28:34] [Server thread/INFO]: ZizTo was blown up by Creeper
+[14:28:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:28:35] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:28:35] [Server thread/INFO]: <ZizTo> титьки[m
+[14:28:35] [RCON Client /127.0.0.1 #160/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:28:39] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:28:39] [Server thread/INFO]: <ZizTo> дому[m
+[14:28:39] [RCON Client /127.0.0.1 #161/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:28:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:28:41] [Server thread/INFO]: <ZizTo> пизда[m
+[14:28:41] [RCON Client /127.0.0.1 #162/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:28:42] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:28:42] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:28:42] [Server thread/INFO]: <continuous> что ж такое[m
+[14:28:42] [RCON Client /26.252.122.125 #163/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:28:42] [Server thread/INFO]: continuous blew up
+[14:28:48] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:28:48] [Server thread/INFO]: <continuous> я случайно[m
+[14:28:48] [RCON Client /26.252.122.125 #164/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:28:50] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:28:50] [Server thread/INFO]: <ZizTo> повезло[m
+[14:28:50] [RCON Client /127.0.0.1 #165/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:28:58] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:28:58] [Server thread/INFO]: <ZizTo> нужен[m
+[14:28:58] [RCON Client /127.0.0.1 #166/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:29:08] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:29:08] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:29:08] [Server thread/INFO]: <continuous> слишком[m
+[14:29:08] [RCON Client /26.252.122.125 #167/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:29:08] [Server thread/INFO]: continuous blew up
+[14:29:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:29:09] [Server thread/INFO]: <ZizTo> прощай[m
+[14:29:09] [RCON Client /127.0.0.1 #168/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:29:16] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:29:16] [Server thread/INFO]: <continuous> это невозможно[m
+[14:29:16] [RCON Client /26.252.122.125 #169/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:29:24] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:29:24] [Server thread/INFO]: <ZizTo> Windows и[m
+[14:29:24] [RCON Client /127.0.0.1 #170/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:29:26] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:29:26] [Server thread/INFO]: <continuous> Паша ну ты просто молчишь[m
+[14:29:26] [RCON Client /26.252.122.125 #171/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:29:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:29:28] [Server thread/INFO]: <ZizTo> не молчу я хо[m
+[14:29:28] [RCON Client /127.0.0.1 #172/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:29:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:29:31] [Server thread/INFO]: <ZizTo> Easy[m
+[14:29:31] [RCON Client /127.0.0.1 #173/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:29:35] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:29:35] [Server thread/INFO]: <continuous> неправда[m
+[14:29:35] [RCON Client /26.252.122.125 #174/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:29:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:29:41] [Server thread/INFO]: <ZizTo> Эндермен тут[m
+[14:29:41] [RCON Client /127.0.0.1 #175/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:29:47] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:29:47] [Server thread/INFO]: <continuous> интересно то что[m
+[14:29:47] [RCON Client /26.252.122.125 #176/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:29:52] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:29:52] [Server thread/INFO]: <continuous> нарисо[m
+[14:29:52] [RCON Client /26.252.122.125 #177/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:29:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:29:57] [Server thread/INFO]: <ZizTo> что[m
+[14:29:57] [RCON Client /127.0.0.1 #178/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:29:58] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:29:58] [Server thread/INFO]: <continuous> нарисо[m
+[14:29:58] [RCON Client /26.252.122.125 #179/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:29:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:29:59] [Server thread/INFO]: <ZizTo> таймер[m
+[14:29:59] [RCON Client /127.0.0.1 #180/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:30:04] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:30:04] [Server thread/INFO]: <ZizTo> ру[m
+[14:30:04] [RCON Client /127.0.0.1 #181/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:30:11] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:30:11] [Server thread/INFO]: <continuous> нарисо[m
+[14:30:11] [RCON Client /26.252.122.125 #182/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:30:13] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:30:13] [Server thread/INFO]: <continuous> чернила[m
+[14:30:13] [RCON Client /26.252.122.125 #183/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:30:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:30:19] [Server thread/INFO]: <ZizTo> что[m
+[14:30:19] [RCON Client /127.0.0.1 #184/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:30:21] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:30:21] [Server thread/INFO]: <continuous> чернилами[m
+[14:30:21] [RCON Client /26.252.122.125 #185/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:30:24] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:30:24] [Server thread/INFO]: <ZizTo> не понимаю[m
+[14:30:24] [RCON Client /127.0.0.1 #186/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:30:29] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:30:29] [Server thread/INFO]: <continuous> вещь вещь сверху[m
+[14:30:29] [RCON Client /26.252.122.125 #187/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:30:35] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:30:35] [Server thread/INFO]: <continuous> содержит эту вещь[m
+[14:30:35] [RCON Client /26.252.122.125 #188/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:30:38] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:30:38] [Server thread/INFO]: <ZizTo> понял[m
+[14:30:38] [RCON Client /127.0.0.1 #189/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:30:42] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:30:42] [Server thread/INFO]: <continuous> понятно[m
+[14:30:42] [RCON Client /26.252.122.125 #190/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:30:44] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:30:44] [Server thread/INFO]: <ZizTo> не совсем[m
+[14:30:44] [RCON Client /127.0.0.1 #191/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:30:51] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:30:51] [Server thread/INFO]: <continuous> что содержит[m
+[14:30:51] [RCON Client /26.252.122.125 #192/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:30:55] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:30:55] [Server thread/INFO]: <ZizTo> понял[m
+[14:30:55] [RCON Client /127.0.0.1 #193/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:30:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:30:57] [Server thread/INFO]: <ZizTo> дёрн[m
+[14:30:57] [RCON Client /127.0.0.1 #194/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:31:02] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:31:02] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:31:02] [Server thread/INFO]: <continuous> а что я делаю[m
+[14:31:02] [RCON Client /26.252.122.125 #195/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:31:02] [Server thread/INFO]: continuous blew up
+[14:31:06] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:31:06] [Server thread/INFO]: <continuous> а какая буква[m
+[14:31:06] [RCON Client /26.252.122.125 #196/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:31:08] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:31:08] [Server thread/INFO]: <ZizTo> буква но[m
+[14:31:08] [RCON Client /127.0.0.1 #197/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:31:14] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:31:14] [Server thread/INFO]: <ZizTo> молчи когда[m
+[14:31:14] [RCON Client /127.0.0.1 #198/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:31:15] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:31:16] [Server thread/INFO]: <continuous> плохая[m
+[14:31:16] [RCON Client /26.252.122.125 #199/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:31:21] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:31:21] [Server thread/INFO]: <continuous> плохая New[m
+[14:31:21] [RCON Client /26.252.122.125 #200/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:31:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:31:27] [Server thread/INFO]: <ZizTo> как мы говорили[m
+[14:31:27] [RCON Client /127.0.0.1 #201/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:31:28] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:31:28] [Server thread/INFO]: <continuous> а информация[m
+[14:31:28] [RCON Client /26.252.122.125 #202/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:31:35] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:31:35] [Server thread/INFO]: <continuous> я взорвал[m
+[14:31:35] [RCON Client /26.252.122.125 #203/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:31:39] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:31:39] [Server thread/INFO]: <continuous> ещё[m
+[14:31:39] [RCON Client /26.252.122.125 #204/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:31:48] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:31:48] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:31:48] [Server thread/INFO]: <continuous> не могу похвалить[m
+[14:31:48] [RCON Client /26.252.122.125 #205/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:31:48] [Server thread/INFO]: continuous blew up
+[14:31:55] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:31:55] [Server thread/INFO]: <ZizTo> он понял[m
+[14:31:55] [RCON Client /127.0.0.1 #206/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:31:58] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:32:01] [Server thread/INFO]: <continuous> я не до[m
+[14:32:02] [RCON Client /26.252.122.125 #207/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:32:11] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:32:11] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:32:11] [Server thread/INFO]: <ZizTo> нету[m
+[14:32:11] [Server thread/INFO]: ZizTo blew up
+[14:32:11] [RCON Client /127.0.0.1 #208/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:32:19] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:32:19] [Server thread/INFO]: <continuous> чего[m
+[14:32:19] [RCON Client /26.252.122.125 #209/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:32:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:32:19] [Server thread/INFO]: <ZizTo> глаза[m
+[14:32:19] [RCON Client /127.0.0.1 #210/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:32:22] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:32:22] [Server thread/INFO]: <continuous> где[m
+[14:32:22] [RCON Client /26.252.122.125 #211/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:32:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:32:25] [Server thread/INFO]: <ZizTo> не выпал[m
+[14:32:25] [RCON Client /127.0.0.1 #212/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:32:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:32:31] [Server thread/INFO]: <ZizTo> Эндермен[m
+[14:32:31] [RCON Client /127.0.0.1 #213/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:32:41] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:32:42] [Server thread/INFO]: <continuous> Bamboo[m
+[14:32:42] [RCON Client /26.252.122.125 #214/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:32:46] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:32:46] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:32:46] [Server thread/INFO]: <continuous> Посмотри в[m
+[14:32:46] [Server thread/INFO]: continuous blew up
+[14:32:46] [RCON Client /26.252.122.125 #215/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:32:50] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:32:51] [Server thread/INFO]: <continuous> ой[m
+[14:32:52] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:32:52] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:32:52] [Server thread/INFO]: <ZizTo> забыл ты[m
+[14:32:52] [RCON Client /127.0.0.1 #217/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:32:52] [Server thread/INFO]: ZizTo blew up
+[14:32:52] [RCON Client /26.252.122.125 #216/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:33:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:33:07] [Server thread/INFO]: <ZizTo> буква хорошая[m
+[14:33:07] [RCON Client /127.0.0.1 #218/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:33:12] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:33:12] [Server thread/INFO]: <continuous> а[m
+[14:33:12] [RCON Client /26.252.122.125 #219/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:33:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:33:13] [Server thread/INFO]: <ZizTo> что думаешь[m
+[14:33:13] [RCON Client /127.0.0.1 #220/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:33:19] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:33:19] [Server thread/INFO]: <continuous> реже[m
+[14:33:19] [RCON Client /26.252.122.125 #221/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:33:24] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:33:24] [Server thread/INFO]: <ZizTo> тут только[m
+[14:33:24] [RCON Client /127.0.0.1 #222/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:33:35] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:33:35] [Server thread/INFO]: <continuous> Почему[m
+[14:33:35] [RCON Client /26.252.122.125 #223/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:33:36] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:33:36] [Server thread/INFO]: <ZizTo> могут[m
+[14:33:36] [RCON Client /127.0.0.1 #224/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:33:40] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:33:40] [Server thread/INFO]: <ZizTo> ю[m
+[14:33:40] [RCON Client /127.0.0.1 #225/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:33:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:33:47] [Server thread/INFO]: <ZizTo> фу повезло[m
+[14:33:47] [RCON Client /127.0.0.1 #226/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:33:49] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:33:49] [Server thread/INFO]: <continuous> везёт[m
+[14:33:49] [RCON Client /26.252.122.125 #227/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:33:52] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:33:52] [Server thread/INFO]: <ZizTo> некоторые буквы - это[m
+[14:33:52] [RCON Client /127.0.0.1 #228/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:33:54] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:33:54] [Server thread/INFO]: <ZizTo> не круто[m
+[14:33:54] [RCON Client /127.0.0.1 #229/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:33:59] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:33:59] [Server thread/INFO]: <continuous> Почему[m
+[14:33:59] [RCON Client /26.252.122.125 #230/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:34:01] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:34:01] [Server thread/INFO]: <continuous> отдых[m
+[14:34:01] [RCON Client /26.252.122.125 #231/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:34:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:34:05] [Server thread/INFO]: <ZizTo> не нужен[m
+[14:34:05] [RCON Client /127.0.0.1 #232/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:34:06] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:34:06] [Server thread/INFO]: <continuous> нужен[m
+[14:34:06] [RCON Client /26.252.122.125 #233/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:34:11] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:34:11] [Server thread/INFO]: <ZizTo> буквы[m
+[14:34:11] [RCON Client /127.0.0.1 #234/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:34:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:34:15] [Server thread/INFO]: <ZizTo> клв[m
+[14:34:15] [RCON Client /127.0.0.1 #235/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:34:18] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:34:18] [Server thread/INFO]: <ZizTo> и это[m
+[14:34:18] [RCON Client /127.0.0.1 #236/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:34:24] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:34:24] [Server thread/INFO]: <ZizTo> популяр[m
+[14:34:24] [RCON Client /127.0.0.1 #237/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:34:31] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:34:31] [Server thread/INFO]: <continuous> Тото[m
+[14:34:31] [RCON Client /26.252.122.125 #238/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:34:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:34:33] [Server thread/INFO]: <ZizTo> Тото[m
+[14:34:33] [RCON Client /127.0.0.1 #239/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:34:37] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:34:37] [Server thread/INFO]: <continuous> ты[m
+[14:34:37] [RCON Client /26.252.122.125 #240/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:34:40] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:34:40] [Server thread/INFO]: <ZizTo> не думаю[m
+[14:34:40] [RCON Client /127.0.0.1 #241/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:34:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:34:43] [Server thread/INFO]: <ZizTo> о чём ты[m
+[14:34:43] [RCON Client /127.0.0.1 #242/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:34:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:34:51] [Server thread/INFO]: <ZizTo> от дома Атай[m
+[14:34:51] [RCON Client /127.0.0.1 #243/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:34:53] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:34:53] [Server thread/INFO]: <continuous> Почему[m
+[14:34:53] [RCON Client /26.252.122.125 #244/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:34:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:34:57] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:34:57] [Server thread/INFO]: <ZizTo> надо[m
+[14:34:57] [RCON Client /127.0.0.1 #245/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:34:57] [Server thread/INFO]: <continuous> Почему[m
+[14:34:57] [RCON Client /26.252.122.125 #246/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:35:02] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:35:03] [Server thread/INFO]: <continuous> Нет нет нет не надо[m
+[14:35:03] [RCON Client /26.252.122.125 #247/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:35:08] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:35:08] [Server thread/INFO]: <ZizTo> воду[m
+[14:35:08] [RCON Client /127.0.0.1 #248/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:35:13] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:35:13] [Server thread/INFO]: <continuous> Зачем[m
+[14:35:13] [RCON Client /26.252.122.125 #249/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:35:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:35:19] [Server thread/INFO]: <ZizTo> везёт[m
+[14:35:19] [RCON Client /127.0.0.1 #250/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:35:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:35:23] [Server thread/INFO]: <ZizTo> люблю букву[m
+[14:35:23] [RCON Client /127.0.0.1 #251/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:35:26] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:35:26] [Server thread/INFO]: <ZizTo> не бей[m
+[14:35:26] [RCON Client /127.0.0.1 #252/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:35:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:35:28] [Server thread/INFO]: <ZizTo> подумай[m
+[14:35:28] [RCON Client /127.0.0.1 #253/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:35:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:35:30] [Server thread/INFO]: <ZizTo> не бей[m
+[14:35:30] [RCON Client /127.0.0.1 #254/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:35:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:35:33] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:35:33] [Server thread/INFO]: <ZizTo> Сукко[m
+[14:35:33] [RCON Client /127.0.0.1 #255/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:35:33] [Server thread/INFO]: ZizTo blew up
+[14:35:39] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:35:39] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:35:39] [Server thread/INFO]: <ZizTo> живой Сукко[m
+[14:35:39] [RCON Client /127.0.0.1 #256/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:35:39] [Server thread/INFO]: continuous blew up
+[14:35:39] [Server thread/INFO]: ZizTo blew up
+[14:35:46] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:35:47] [Server thread/INFO]: <continuous> у меня не[m
+[14:35:47] [RCON Client /26.252.122.125 #257/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:35:50] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:35:50] [Server thread/INFO]: <ZizTo> извини[m
+[14:35:50] [RCON Client /127.0.0.1 #258/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:35:56] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:35:56] [Server thread/INFO]: <ZizTo> Почему[m
+[14:35:56] [RCON Client /127.0.0.1 #259/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:35:56] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:35:56] [Server thread/INFO]: <continuous> не возрождает[m
+[14:35:56] [RCON Client /26.252.122.125 #260/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:35:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:35:59] [Server thread/INFO]: <ZizTo> у тебя[m
+[14:35:59] [RCON Client /127.0.0.1 #261/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:36:03] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:36:03] [Server thread/INFO]: <ZizTo> Почему[m
+[14:36:03] [RCON Client /127.0.0.1 #262/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:36:06] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:36:06] [Server thread/INFO]: <continuous> не знаю[m
+[14:36:06] [RCON Client /26.252.122.125 #263/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:36:14] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:36:14] [Server thread/INFO]: <ZizTo> нажми ПКМ по кровати[m
+[14:36:14] [RCON Client /127.0.0.1 #264/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:36:16] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:36:16] [Server thread/INFO]: <continuous> буду[m
+[14:36:16] [RCON Client /26.252.122.125 #265/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:36:19] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:36:20] [Server thread/INFO]: <continuous> нажму[m
+[14:36:20] [RCON Client /26.252.122.125 #266/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:36:20] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:36:20] [Server thread/INFO]: <ZizTo> отлично[m
+[14:36:20] [RCON Client /127.0.0.1 #267/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:36:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:36:27] [Server thread/INFO]: <ZizTo> у[m
+[14:36:27] [RCON Client /127.0.0.1 #268/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:36:32] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:36:32] [Server thread/INFO]: <ZizTo> кровати[m
+[14:36:32] [RCON Client /127.0.0.1 #269/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:36:38] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:36:38] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:36:38] [Server thread/INFO]: <continuous> Давай бокс[m
+[14:36:38] [RCON Client /26.252.122.125 #270/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:36:38] [Server thread/INFO]: continuous was blown up by ZizTo
+[14:36:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:36:43] [Server thread/INFO]: <ZizTo> не прыгай много[m
+[14:36:43] [RCON Client /127.0.0.1 #271/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:36:46] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:36:46] [Server thread/INFO]: <continuous> Почему[m
+[14:36:46] [RCON Client /26.252.122.125 #272/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:36:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:36:51] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:36:51] [Server thread/INFO]: <ZizTo> вода Не сработает Тихо не бей[m
+[14:36:51] [RCON Client /127.0.0.1 #273/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:36:51] [Server thread/INFO]: ZizTo was blown up by continuous
+[14:36:59] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:36:59] [Server thread/INFO]: <continuous> хорошая идея[m
+[14:36:59] [RCON Client /26.252.122.125 #274/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:37:02] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:37:02] [Server thread/INFO]: <ZizTo> не очень[m
+[14:37:02] [RCON Client /127.0.0.1 #275/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:37:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:37:05] [Server thread/INFO]: <ZizTo> отойдём[m
+[14:37:05] [RCON Client /127.0.0.1 #276/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:37:11] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:37:11] [Server thread/INFO]: <continuous> нет бить в доме чтобы было[m
+[14:37:11] [RCON Client /26.252.122.125 #277/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:37:24] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:37:24] [Server thread/INFO]: <ZizTo> дом[m
+[14:37:24] [RCON Client /127.0.0.1 #278/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:37:41] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:37:41] [Server thread/INFO]: <continuous> Oh[m
+[14:37:41] [RCON Client /26.252.122.125 #279/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:37:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:37:45] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:37:45] [Server thread/INFO]: <ZizTo> рыба[m
+[14:37:45] [RCON Client /127.0.0.1 #280/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:37:45] [Server thread/INFO]: ZizTo was blown up by continuous
+[14:37:55] [Server thread/INFO]: continuous was slain by ZizTo
+[14:37:58] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:37:58] [Server thread/INFO]: <ZizTo> нет[m
+[14:37:58] [RCON Client /127.0.0.1 #281/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:38:00] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:38:00] [Server thread/INFO]: <ZizTo> Easy[m
+[14:38:00] [RCON Client /127.0.0.1 #282/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:38:01] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:38:01] [Server thread/INFO]: <continuous> Ух ты[m
+[14:38:01] [RCON Client /26.252.122.125 #283/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:38:04] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:38:04] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:38:04] [Server thread/INFO]: <ZizTo> честно выиграл[m
+[14:38:04] [RCON Client /127.0.0.1 #284/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:38:04] [Server thread/INFO]: ZizTo blew up
+[14:38:13] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:38:13] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:38:13] [Server thread/INFO]: <continuous> Ты уверен[m
+[14:38:13] [RCON Client /26.252.122.125 #285/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:38:13] [Server thread/INFO]: continuous blew up
+[14:38:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:38:27] [Server thread/INFO]: <ZizTo> много[m
+[14:38:27] [RCON Client /127.0.0.1 #286/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:38:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:38:31] [Server thread/INFO]: <ZizTo> тут было[m
+[14:38:31] [RCON Client /127.0.0.1 #287/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:38:34] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:38:34] [Server thread/INFO]: <continuous> много больше[m
+[14:38:34] [RCON Client /26.252.122.125 #288/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:38:42] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:38:42] [Server thread/INFO]: <ZizTo> raccoon[m
+[14:38:42] [RCON Client /127.0.0.1 #289/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:38:46] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:38:46] [Server thread/INFO]: <ZizTo> легко[m
+[14:38:46] [RCON Client /127.0.0.1 #290/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:38:52] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:38:52] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:38:52] [Server thread/INFO]: <ZizTo> Крэк[m
+[14:38:52] [RCON Client /127.0.0.1 #291/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:38:52] [Server thread/INFO]: ZizTo blew up
+[14:39:00] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:39:00] [Server thread/INFO]: <ZizTo> плохо[m
+[14:39:00] [RCON Client /127.0.0.1 #292/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:39:06] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:39:06] [Server thread/INFO]: <ZizTo> Ух ты[m
+[14:39:06] [RCON Client /127.0.0.1 #293/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:39:10] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:39:10] [Server thread/INFO]: <continuous> Раку[m
+[14:39:10] [RCON Client /26.252.122.125 #294/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:39:14] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:39:14] [Server thread/INFO]: <ZizTo> страшно тут когда нельзя[m
+[14:39:14] [RCON Client /127.0.0.1 #295/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:39:20] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:39:20] [Server thread/INFO]: <ZizTo> пойду я[m
+[14:39:20] [RCON Client /127.0.0.1 #296/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:39:24] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:39:24] [Server thread/INFO]: <continuous> куда[m
+[14:39:24] [RCON Client /26.252.122.125 #297/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:39:26] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:39:26] [Server thread/INFO]: <ZizTo> ночь[m
+[14:39:26] [RCON Client /127.0.0.1 #298/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:39:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:39:29] [Server thread/INFO]: <ZizTo> дома буду[m
+[14:39:29] [RCON Client /127.0.0.1 #299/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:39:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:39:31] [Server thread/INFO]: <ZizTo> только[m
+[14:39:31] [RCON Client /127.0.0.1 #300/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:39:35] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:39:35] [Server thread/INFO]: <continuous> я сзади тебя[m
+[14:39:35] [RCON Client /26.252.122.125 #301/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:39:36] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:39:36] [Server thread/INFO]: <ZizTo> О нет[m
+[14:39:36] [RCON Client /127.0.0.1 #302/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:39:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:39:45] [Server thread/INFO]: <ZizTo> тайпер[m
+[14:39:45] [RCON Client /127.0.0.1 #303/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:39:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:39:49] [Server thread/INFO]: <ZizTo> тайпер[m
+[14:39:49] [RCON Client /127.0.0.1 #304/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:39:51] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:39:51] [Server thread/INFO]: <continuous> Артём[m
+[14:39:51] [RCON Client /26.252.122.125 #305/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:39:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:39:53] [Server thread/INFO]: <ZizTo> Артём[m
+[14:39:53] [RCON Client /127.0.0.1 #306/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:39:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:39:57] [Server thread/INFO]: <ZizTo> будешь[m
+[14:39:57] [RCON Client /127.0.0.1 #307/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:00] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:40:00] [Server thread/INFO]: <ZizTo> ближе к ночи[m
+[14:40:00] [RCON Client /127.0.0.1 #308/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:03] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:40:03] [Server thread/INFO]: <ZizTo> Minecraft[m
+[14:40:03] [RCON Client /127.0.0.1 #309/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:06] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:40:06] [Server thread/INFO]: <ZizTo> с плагином[m
+[14:40:06] [RCON Client /127.0.0.1 #310/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:18] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:40:18] [Server thread/INFO]: <ZizTo> могу[m
+[14:40:18] [RCON Client /127.0.0.1 #311/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:18] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:40:18] [Server thread/INFO]: <continuous> Куда ты бежишь[m
+[14:40:18] [RCON Client /26.252.122.125 #312/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:40:24] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:40:24] [Server thread/INFO]: <ZizTo> Plague[m
+[14:40:24] [RCON Client /127.0.0.1 #313/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:26] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:40:26] [Server thread/INFO]: <continuous> Ух ты не надо[m
+[14:40:26] [RCON Client /26.252.122.125 #314/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:40:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:40:28] [Server thread/INFO]: <ZizTo> Почему[m
+[14:40:28] [RCON Client /127.0.0.1 #315/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:40:33] [Server thread/INFO]: <ZizTo> смешно будет[m
+[14:40:33] [RCON Client /127.0.0.1 #316/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:36] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:40:36] [Server thread/INFO]: <continuous> флаг incorpora[m
+[14:40:36] [RCON Client /26.252.122.125 #317/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:40:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:40:45] [Server thread/INFO]: <ZizTo> куда[m
+[14:40:45] [RCON Client /127.0.0.1 #318/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:48] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:40:48] [Server thread/INFO]: <continuous> о[m
+[14:40:48] [RCON Client /26.252.122.125 #319/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:40:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:40:53] [Server thread/INFO]: <ZizTo> конь не еда[m
+[14:40:53] [RCON Client /127.0.0.1 #320/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:54] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:40:54] [Server thread/INFO]: <ZizTo> нельзя[m
+[14:40:54] [RCON Client /127.0.0.1 #321/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:55] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:40:55] [Server thread/INFO]: <continuous> согласен[m
+[14:40:55] [RCON Client /26.252.122.125 #322/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:40:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:40:57] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:40:57] [Server thread/INFO]: <ZizTo> свиньи[m
+[14:40:57] [RCON Client /127.0.0.1 #323/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:40:57] [Server thread/INFO]: ZizTo blew up
+[14:41:04] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:41:04] [Server thread/INFO]: <continuous> реально свинья[m
+[14:41:04] [RCON Client /26.252.122.125 #324/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:41:13] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:41:13] [Server thread/INFO]: <continuous> Я не хочу умирать пожалуйста хватит не надо[m
+[14:41:13] [RCON Client /26.252.122.125 #325/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:41:15] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:41:15] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:41:15] [Server thread/INFO]: <continuous> Крипер[m
+[14:41:15] [RCON Client /26.252.122.125 #326/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:41:15] [Server thread/INFO]: continuous was blown up by Spider
+[14:41:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:41:21] [Server thread/INFO]: <ZizTo> это смешно очень[m
+[14:41:21] [RCON Client /127.0.0.1 #327/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:41:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:41:23] [Server thread/INFO]: <ZizTo> люблю[m
+[14:41:23] [RCON Client /127.0.0.1 #328/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:41:31] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:41:31] [Server thread/INFO]: [ExplosiveChat] Игрок continuous сказал запретную букву! БУМ!
+[14:41:31] [Server thread/INFO]: <continuous> какой ой[m
+[14:41:31] [RCON Client /26.252.122.125 #329/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:41:31] [Server thread/INFO]: continuous blew up
+[14:41:32] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:41:32] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:41:32] [Server thread/INFO]: <ZizTo> пойду-ка[m
+[14:41:32] [RCON Client /127.0.0.1 #330/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:41:32] [Server thread/INFO]: ZizTo blew up
+[14:41:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:41:41] [Server thread/INFO]: <ZizTo> держись в воде[m
+[14:41:41] [RCON Client /127.0.0.1 #331/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:41:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:41:43] [Server thread/INFO]: <ZizTo> сервер оставить[m
+[14:41:43] [RCON Client /127.0.0.1 #332/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:41:50] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:41:50] [Server thread/INFO]: <ZizTo> Хорошо не буду[m
+[14:41:50] [RCON Client /127.0.0.1 #333/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:41:54] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:41:54] [Server thread/INFO]: <continuous> не надо[m
+[14:41:54] [RCON Client /26.252.122.125 #334/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:41:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:41:57] [Server thread/INFO]: <ZizTo> надо[m
+[14:41:57] [RCON Client /127.0.0.1 #335/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:41:59] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:41:59] [Server thread/INFO]: <continuous> что надо[m
+[14:41:59] [RCON Client /26.252.122.125 #336/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:42:00] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:42:00] [Server thread/INFO]: <ZizTo> идти[m
+[14:42:00] [RCON Client /127.0.0.1 #337/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:42:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:42:07] [Server thread/INFO]: <ZizTo> повезло[m
+[14:42:07] [RCON Client /127.0.0.1 #338/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:42:08] [RCON Listener #1/INFO]: Thread RCON Client /26.252.122.125 started
+[14:42:08] [Server thread/INFO]: <continuous> хорошо[m
+[14:42:08] [RCON Client /26.252.122.125 #339/INFO]: Thread RCON Client /26.252.122.125 shutting down
+[14:42:11] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:42:11] [Server thread/INFO]: [ExplosiveChat] Игрок ZizTo сказал запретную букву! БУМ!
+[14:42:11] [Server thread/INFO]: <ZizTo> а если я скажу[m
+[14:42:11] [RCON Client /127.0.0.1 #340/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:42:11] [Server thread/INFO]: ZizTo blew up
+[14:42:16] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:42:16] [Server thread/INFO]: <ZizTo> точно[m
+[14:42:16] [RCON Client /127.0.0.1 #341/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:42:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:42:21] [Server thread/INFO]: <ZizTo> kerasus[m
+[14:42:21] [RCON Client /127.0.0.1 #342/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[14:42:23] [Server thread/INFO]: ZizTo lost connection: Disconnected
+[14:42:24] [Server thread/INFO]: ZizTo left the game
+[14:42:27] [Server thread/INFO]: Stopping server
+[14:42:27] [Server thread/INFO]: [ExplosiveChat] Disabling ExplosiveChat v1.0
+[14:42:27] [Server thread/INFO]: [ExplosiveChat] ExplosiveChat Plugin has been disabled.
+[14:42:27] [Server thread/INFO]: Saving players
+[14:42:27] [Server thread/INFO]: continuous lost connection: Server closed
+[14:42:27] [Server thread/INFO]: continuous left the game.
+[14:42:27] [Server thread/INFO]: Saving worlds
+[14:42:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:42:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[14:42:29] [RCON Client /127.0.0.1 #343/WARN]: Unexpected exception while parsing console command "voicechat ZizTo легко"
+java.lang.IllegalStateException: Asynchronous command dispatch!
+	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14) ~[spigot-1.21.5-R0.1-SNAPSHOT.jar:4504-Spigot-270012a-dacd062]
+	at org.bukkit.craftbukkit.v1_21_R4.CraftServer.dispatchCommand(CraftServer.java:922) ~[spigot-1.21.5-R0.1-SNAPSHOT.jar:4504-Spigot-270012a-dacd062]
+	at org.bukkit.craftbukkit.v1_21_R4.CraftServer.dispatchServerCommand(CraftServer.java:909) ~[spigot-1.21.5-R0.1-SNAPSHOT.jar:4504-Spigot-270012a-dacd062]
+	at net.minecraft.server.dedicated.DedicatedServer.lambda$runCommand$3(DedicatedServer.java:667) ~[spigot-1.21.5-R0.1-SNAPSHOT.jar:4504-Spigot-270012a-dacd062]
+	at net.minecraft.util.thread.IAsyncTaskHandler.i(SourceFile:70) ~[spigot-1.21.5-R0.1-SNAPSHOT.jar:4504-Spigot-270012a-dacd062]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.execute(SourceFile:110) ~[spigot-1.21.5-R0.1-SNAPSHOT.jar:4504-Spigot-270012a-dacd062]
+	at java.base/java.util.concurrent.CompletableFuture.asyncSupplyStage(CompletableFuture.java:1782) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.supplyAsync(CompletableFuture.java:2005) ~[?:?]
+	at net.minecraft.util.thread.IAsyncTaskHandler.b(SourceFile:69) ~[spigot-1.21.5-R0.1-SNAPSHOT.jar:4504-Spigot-270012a-dacd062]
+	at net.minecraft.util.thread.IAsyncTaskHandler.h(SourceFile:93) ~[spigot-1.21.5-R0.1-SNAPSHOT.jar:4504-Spigot-270012a-dacd062]
+	at net.minecraft.server.dedicated.DedicatedServer.runCommand(DedicatedServer.java:659) ~[spigot-1.21.5-R0.1-SNAPSHOT.jar:4504-Spigot-270012a-dacd062]
+	at net.minecraft.server.rcon.thread.RemoteControlSession.run(RemoteControlSession.java:82) ~[spigot-1.21.5-R0.1-SNAPSHOT.jar:4504-Spigot-270012a-dacd062]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[14:42:29] [RCON Client /127.0.0.1 #343/INFO]: Thread RCON Client /127.0.0.1 shutting down

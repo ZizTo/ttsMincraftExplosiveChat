@@ -1,0 +1,10 @@
+name: ExplosiveChat
+version: 1.0
+main: com.example.explosivechat.ExplosiveChat
+api-version: 1.21 # Укажите версию вашего API, например 1.18, 1.19, 1.20
+author: YourName
+description: Explodes a player if their chat message contains a specific letter.
+commands:
+  voicechat:
+    description: "Принимает голосовое сообщение и обрабатывает его."
+    usage: "/voicechat <сообщение...>"

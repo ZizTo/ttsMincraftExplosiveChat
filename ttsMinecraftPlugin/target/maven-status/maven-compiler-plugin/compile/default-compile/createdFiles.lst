@@ -1,0 +1,5 @@
+com\example\explosivechat\TimerToChange.class
+com\example\explosivechat\LetterSingleton.class
+com\example\explosivechat\VoiceChatCommand.class
+com\example\explosivechat\ExplosiveChat$PlayerJoinQuitListener.class
+com\example\explosivechat\ExplosiveChat.class
